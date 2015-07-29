@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jaxoncreed/fluxible-action-monitor/issues"
   },
-  "homepage": "https://github.com/jaxoncreed/fluxible-action-monitor#readme"
+  "homepage": "https://github.com/jaxoncreed/fluxible-action-monitor#readme",
+  "dependencies": {
+    "fluxible-app": "^0.1.5"
+  }
 }
