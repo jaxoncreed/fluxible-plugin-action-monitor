@@ -1,0 +1,23 @@
+{
+  "name": "fluxible-plugin-action-monitor",
+  "version": "1.0.0",
+  "description": "A plug-in for fluxible that allows developers to monitor the progress of an action.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxoncreed/fluxible-action-monitor.git"
+  },
+  "keywords": [
+    "fluxible",
+    "flux"
+  ],
+  "author": "Jackson Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxoncreed/fluxible-action-monitor/issues"
+  },
+  "homepage": "https://github.com/jaxoncreed/fluxible-action-monitor#readme"
+}
